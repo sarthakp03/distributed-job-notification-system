@@ -1,0 +1,8 @@
+Google-2,5,
+Apple-5,61,2,
+Microsoft-1,2,
+Tesla-5,2,
+Nvidia-5,2,6,
+Adobe-43,2,
+IBS-2,
+VMWare-2,21,
