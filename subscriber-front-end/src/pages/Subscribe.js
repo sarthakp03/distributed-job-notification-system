@@ -89,7 +89,7 @@ const Subscribe = () => {
                             <Button variant="success" type="submit">Done</Button>
                         </Form>
                     </Card.Body>
-                    <Card.Footer className="text-muted">(c) Ruchi | Ann | Prachi</Card.Footer>
+                    <Card.Footer className="text-muted">(c) Sarthak </Card.Footer>
                 </Card>
             </div>
         </>
