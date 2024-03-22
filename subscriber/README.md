@@ -23,9 +23,8 @@ This docker image is pulled on an AWS EC2 instance and run as a docker container
 
 Commands used:
 ```
-docker build -t sub-java-app .
-docker tag sub-java-app pranav2306/subscriber-backend:latest
-docker push pranav2306/subscriber-backend
+docker build -t sarthakp263/subscriber-backend:v1 .
+docker push sarthakp263/subscriber-backend:v1
 ```
 
 

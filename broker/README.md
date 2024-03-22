@@ -23,9 +23,8 @@ This docker image is pulled on an AWS EC2 instance and run as a docker container
 
 Commands used:
 ```
-$ docker build -t broker-java-app .
-$ docker tag broker-java-app pranav2306/broker:latest
-$ docker push pranav2306/broker
+$ docker build -t sarthakp263/broker:v1 .
+$ docker push sarthakp263/broker:v1
 ```
 
 

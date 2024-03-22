@@ -23,9 +23,8 @@ This docker image is pulled on an AWS EC2 instance and run as a docker container
 
 Commands used:
 ```
-$ docker build -t pub-java-app .
-$ docker tag pub-java-app ruchidhore/publisher-backend:latest
-$ docker push ruchidhore/publisher-backend
+$ docker build -t sarthakp263/publisher-backend:v1
+$ docker push sarthakp263/publisher-backend:v1
 ```
 
 

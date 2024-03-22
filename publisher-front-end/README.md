@@ -35,7 +35,6 @@ This docker image is pulled on an AWS EC2 instance and run as a docker container
 Commands used:
 
 ```
-docker build -t pub-react-app .
-docker tag pub-react-app pranav2306/publisher-frontend:latest
-docker push pranav2306/publisher-frontend
+docker build -t sarthakp263/publisher-front-end:latest
+docker push sarthakp263/publisher-front-end:latest
 ```

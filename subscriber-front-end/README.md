@@ -35,7 +35,6 @@ This docker image is pulled on an AWS EC2 instance and run as a docker container
 Commands used:
 
 ```
-docker build -t sub-react-app .
-docker tag sub-react-app ruchidhore/subscriber-frontend:latest
-docker push ruchidhore/subscriber-frontend
+docker build -t sarthakp263/subscriber-frontend:v1
+docker push sarthakp263/subscriber-frontend:v1
 ```
